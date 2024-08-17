@@ -12,10 +12,14 @@ This repository contains a machine learning project aimed at predicting laptop p
 
 **Model Training**: Implement multiple machine learning algorithms including Linear Regression, Decision Trees, and Random Forest to predict laptop prices.
 
-Model Evaluation: Evaluate models using metrics such as R-squared, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) to determine the best-performing model.
-Hyperparameter Tuning: Optimize model performance using techniques like GridSearchCV or RandomizedSearchCV to fine-tune hyperparameters.
-Deployment: Provide a prototype of the price prediction system, which can be integrated into SmartTech Co.’s website or application.
-Technologies Used:
+**Model Evaluation**: Evaluate models using metrics such as R-squared, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) to determine the best-performing model.
+
+**Hyperparameter Tuning**: Optimize model performance using techniques like GridSearchCV or RandomizedSearchCV to fine-tune hyperparameters.
+
+**Deployment**: Provide a prototype of the price prediction system, which can be integrated into SmartTech Co.’s website or application.
+
+**Technologies Used**:
+
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 Machine Learning Algorithms (Linear Regression, Decision Tree, Random Forest)
 Jupyter Notebook (for code and analysis)

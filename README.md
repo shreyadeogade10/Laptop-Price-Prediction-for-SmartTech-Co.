@@ -3,7 +3,6 @@
 This repository contains a machine learning project aimed at predicting laptop prices for SmartTech Co. based on various features such as brand, specifications, and technical details. The project leverages supervised learning algorithms to create a predictive model that can estimate the price of a laptop based on its attributes.
 
 **Key Features**:
-
 **Data Preprocessing**: Clean and preprocess the laptop dataset to handle missing values, encode categorical features, and normalize numerical features for optimal model performance.
 
 **Exploratory Data Analysis (EDA)**: Analyze and visualize relationships between different features such as brand, processor type, RAM, storage, and price.
